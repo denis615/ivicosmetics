@@ -1,6 +1,6 @@
 using System;
 
-namespace IviCosmetics.DataAccess.Models
+namespace IVICosmetics.Web.Models
 {
     public class ErrorViewModel
     {

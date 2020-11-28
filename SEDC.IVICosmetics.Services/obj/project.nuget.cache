@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "DLCbMj8zd5ewmw4KjJ4TMUcPa50CKbnPS7shEd2epfoVnfo/CoUqYLyh/SUEdnVc3cl5nUiJqH8wNHpJNZBxsw==",
+  "dgSpecHash": "oV4C/8VzhpWqsCAXC9toQWWoMDK97TP7RMkylluzwFxn3EzEViaIDSVWsezGb17RStkddpB2ARPdLh332ervtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Broj 18\\source\\repos\\IVICosmetics.web\\SEDC.IVICosmetics.Services\\SEDC.IVICosmetics.Services.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Betim Osmani\\Documents\\GitHub\\ivicosmetics\\SEDC.IVICosmetics.Services\\SEDC.IVICosmetics.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Betim Osmani\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Betim Osmani\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Betim Osmani\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Betim Osmani\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Betim Osmani\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Betim Osmani\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Betim Osmani\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
